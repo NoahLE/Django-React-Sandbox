@@ -87,5 +87,8 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "webpack-bundle-tracker": "^0.2.0"
   }
 }

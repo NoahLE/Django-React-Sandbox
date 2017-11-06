@@ -4,6 +4,12 @@
 
 This project uses Django for the project's backend and React for the front-end. This project is based off the tutorial by [v1k45](http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/).
 
+## Screenshot
+
+### The React boilerplate being run by a Django backend
+
+![screenshot](dj-react.png)
+
 ## Getting started
 
 Create a Python virtualenv using Python 3.X. Then run `pip install -r requirements.txt` from inside the `ponynote` folder.
